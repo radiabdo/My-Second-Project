@@ -1,0 +1,42 @@
+/* Start Section About */
+.breadcrumb {
+  padding: 10px 0;
+  background-color: #eee;
+}
+.about-us {
+  padding: 50px 0;
+}
+.about-us p {
+  margin-bottom: 30px;
+}
+.about-us img {
+  width: 600px;
+}
+.about-ceo {
+  padding-top: 50px;
+}
+.about-ceo a {
+  margin-bottom: 20px;
+}
+.about-ceo p {
+  line-height: 1.8;
+}
+/* Start Section About */
+/* Start Section Accordion */
+.accordion {
+  padding-top: 50px;
+  padding-bottom: 50px;
+  width: 500px;
+}
+.section-accordion {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.faq {
+  padding-top: 50px;
+}
+.faq h2 {
+  margin-bottom: 30px;
+}
+/* Start Section Accordion */
